@@ -11,6 +11,20 @@ Traditional file storage systems often depend on manual backups, making recovery
 This project uses **Amazon S3** to provide secure cloud storage with automatic backup and quick file recovery using a primary and backup S3 bucket.
 
 ---
+## 🎥 Project Videos
+
+### 🎬 Project Demo
+
+▶️ **[Watch Backup and Recovery System Demo](https://drive.google.com/file/d/1JdlrRfJrBB3bUs-SUI12yQLAHVBOWp4c/view?usp=sharing)**
+
+---
+
+### ☁️ AWS Setup Demo
+
+▶️ **[Watch AWS S3 Setup Demo](https://drive.google.com/file/d/1uFexNWGN3yUME74Ed8fN0TDAcfshfnnT/view?usp=sharing)**
+
+---
+
 
 ## 🎯 Objectives
 
